@@ -1,0 +1,87 @@
+.header{
+    padding: 30px;
+    background-color:#5CACEE;
+    font-size: 8px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif
+}
+.field{
+    margin: 20px 0 0 0;
+    height: 50px;
+} 
+.text-box{
+    width: 100%;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid #dcdcdc;
+    
+}
+.select0{
+    padding: 10px;
+}
+.title{
+    color: white;
+    background: #5CACEE;
+    font-size: 15px;
+    padding: 5px;
+    font-family:Arial, Helvetica, sans-serif
+}
+.field1{
+        height: 250px;
+        border: 1px solid #dcdcdc; 
+}
+select{
+    width: 100%;
+    border-radius: 3px;
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    border: 1px solid #dcdcdc;
+}
+.field2{
+    margin: 20px 0 0 0 ;
+    height: 100px;
+}
+.select1{
+    font-family: 'Courier New', Courier, monospace;
+}
+.bt{
+    background: #5CACEE;
+    color: white;
+    width: 100px;
+    height: 29px;   
+    margin-top: 17px;
+    border: 1px solid #dcdcdc;
+
+}
+.bt1{
+    text-align: right;
+}
+.table{
+    width: 100%;
+    margin-top: 30px;
+    border: 1px solid #dcdcdc;
+}
+.bt2{
+    text-align: center
+}
+.save{
+    background:lightgray;
+    color:black;
+    width: 100px;
+    height: 29px;   
+    margin-top: 15px;
+    border: 1px solid #dcdcdc;
+    margin-left: 20px;
+  
+}
+.tb2{
+    text-align: left;
+    background: #5CACEE;
+    color: white
+}
+td{
+    border: 1px solid #dcdcdc;
+    padding: 10px;
+}
+

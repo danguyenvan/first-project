@@ -1,0 +1,25 @@
+
+    body{background:moccasin}
+    h1{color: magenta;text-align: center}
+    .aa{color: mediumseagreen; text-align: left}
+    .aaa{color: red}
+    #a1{color: rosybrown;}    
+    .a3{color:green}
+    #a4{color:rgb(21, 21, 240); border: 3px  solid green;
+         padding: 20px; margin: 30px; width: 300px; }
+    .a5 ul{
+        
+        list-style-type: armenian;
+    }
+.a5:link, .a5:visited{
+    background-color:red;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    padding: 15px 20px;
+    display: inline-block;
+}
+.a5:hover, .a5:active{
+    background-color: white;
+    color:blue;
+}
